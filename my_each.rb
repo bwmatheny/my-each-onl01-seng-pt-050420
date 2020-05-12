@@ -10,4 +10,7 @@ def my_each(array)
   else
     "This block should not run"
   end
+
+  array
+  
 end
